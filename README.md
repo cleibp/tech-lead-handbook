@@ -28,7 +28,7 @@
   - [8. Como você faz code review?](#8-como-você-faz-code-review)
   - [9. O que você faz quando um desenvolvedor entrega uma solução tecnicamente ruim?](#9-o-que-você-faz-quando-um-desenvolvedor-entrega-uma-solução-tecnicamente-ruim)
   - [10. Como você garante qualidade técnica sem virar um gargalo?](#10-como-você-garante-qualidade-técnica-sem-virar-um-gargalo)
-- [Módulo 4: Design de Sistemas, Escalabilidade & Observabilidade](#-módulo-4-design-de-sistemas-escalabilidade-observabilidade)
+- [Módulo 4: Design de Sistemas, Escalabilidade & Observabilidade](#-módulo-4-design-de-sistemas-escalabilidade--observabilidade)
   - [11. Como você conduziria a arquitetura de uma nova API?](#11-como-você-conduziria-a-arquitetura-de-uma-nova-api)
   - [12. Como você projetaria uma API que precisa suportar milhões de requisições?](#12-como-você-projetaria-uma-api-que-precisa-suportar-milhões-de-requisições)
   - [13. Quando você usaria Kafka?](#13-quando-você-usaria-kafka)
@@ -159,22 +159,9 @@ Ao encarar um problema, o Tech Lead deve fazer perguntas sistêmicas:
 
 > O Tech Lead não deve ser o único aprovador de mudanças ou tomador de decisões.
 
-```
-       +-----------------------------------------------+
-       |             ESTABELECER LIMITES               |
-       |  (Documentação, Automação & Padrões Clari)    |
-       +-----------------------+-----------------------+
-                               |
-                               v
-       +-----------------------------------------------+
-       |             DELEGAR COM SEGURANÇA             |
-       |     (Autonomia para o Time Decidir)           |
-       +-----------------------------------------------+
-```
-
 ---
 
-## ⚙️ Módulo 4: Design de Sistemas, Escalabilidade & Observabilidade
+## 🚀 Módulo 4: Design de Sistemas, Escalabilidade & Observabilidade
 
 ### 11. Como você conduziria a arquitetura de uma nova API?
 
@@ -342,15 +329,6 @@ Manter contato direto com a base de código é essencial para manter a visão pr
 ### 28. Você prefere ser especialista ou generalista?
 
 > Perfil **T-Shaped**: Profundidade técnica em Backend e Arquitetura de Sistemas, com forte amplitude em Cloud, DevOps, Banco de Dados e Frontend.
-
-```
-       CONHECIMENTO AMPLO (Cloud, DevOps, Frontend, Banco, Negócio)
-  ===================================================================
-                                  ||
-                                  ||  PROFUNDIDADE
-                                  ||  (Backend & Arquitetura)
-                                  ||
-```
 
 ---
 
